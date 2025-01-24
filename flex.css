@@ -1,0 +1,18 @@
+
+.container div{
+    background-color: beige;
+    border: 2px solid rgba(49, 34, 184, 0.249);
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.container {
+    display: flex;
+    flex-direction: row; /* Stack items vertically */
+    justify-content: space-evenly;/* Vertical alignment */
+    align-items: center;
+    height: 20vh; /* Full viewport height */
+    border: 5px solid #969c97;
+    background-color: rgb(34, 47, 47);
+  }
+

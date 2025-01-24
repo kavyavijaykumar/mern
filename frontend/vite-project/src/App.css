@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'poppins', sans-serif;
+  box-sizing: border-box;
+}
+body{
+  background: #080808;
+  color: #fff;
+  /* background-image: url('assets/img1.jpg'); */
+}
+#header{
+  background-size: cover;
+  background-image: url('assets/img1.jpg');
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+}
